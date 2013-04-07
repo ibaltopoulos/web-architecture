@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3D7010
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskManager.Web", "DeskManager.Web\DeskManager.Web.csproj", "{0F6E26C8-3571-49BB-8E08-97DECF682013}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeskManager.Web", "DeskManager.Web\DeskManager.Web.csproj", "{22D51F15-709D-48AE-8A05-C0EE51D01F62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,10 +22,10 @@ Global
 		{D0C39475-A3EB-4F2B-B801-8C54D130982E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0C39475-A3EB-4F2B-B801-8C54D130982E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0C39475-A3EB-4F2B-B801-8C54D130982E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F6E26C8-3571-49BB-8E08-97DECF682013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F6E26C8-3571-49BB-8E08-97DECF682013}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F6E26C8-3571-49BB-8E08-97DECF682013}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F6E26C8-3571-49BB-8E08-97DECF682013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D51F15-709D-48AE-8A05-C0EE51D01F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D51F15-709D-48AE-8A05-C0EE51D01F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D51F15-709D-48AE-8A05-C0EE51D01F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D51F15-709D-48AE-8A05-C0EE51D01F62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
