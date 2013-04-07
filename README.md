@@ -1,4 +1,4 @@
 web-architecture
 ================
 
-Experimenting with non-standard web architectures
+Experimenting with non-standard web architectures.
